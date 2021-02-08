@@ -1,2 +1,5 @@
 # Minesweeper
-Testing minesweeper functions, such as random allocation of mines and floodfill
+Programming all possible minesweeper functions that work without user input:
+- Random mine allocation
+- Minecounter
+- Floodfill
